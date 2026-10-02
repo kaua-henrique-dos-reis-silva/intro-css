@@ -1,0 +1,36 @@
+body {
+    background-color: #ff1313;
+    color: aquamarine;
+    /* color: rgb(127, 255, 212);
+      
+        R - Red
+        G - Green
+        B - Blue 
+    */
+
+    /* color: #7fffd4; - color: RR GG BB 
+    Estrutura hexadecimal ou sistema de base 16*/
+
+    /* color: hsl(160, 100%, 75%);
+    
+    HUE - MATIZ
+    SATURATION - SATURAÇÃO
+    LIGHTNESS - BRILHO
+    */
+
+    /* color: hwb(160, 0%, 0%);
+    HWB
+
+    */
+
+    /* color: lab(92, 04% a b); 
+    LAB
+
+    */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 100px;
+    /* pixel é a menor unidade que forma uma imagem na tela do computador */
+}
